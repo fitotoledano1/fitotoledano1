@@ -6,5 +6,5 @@
 - 💻 Looking at options for my next career move
 - 🌱 Currently learning Data Structures and Algorithms - looking to dive deeper into ML/AI, and the VIPER pattern
 - 📫 How to reach me: email, twitter, or LinkedIn
-- 😄 Pronouns: he/him
+- 😃 Pronouns: he/him
 - ⚡ Fun fact: I once was a semi-pro tennis player
