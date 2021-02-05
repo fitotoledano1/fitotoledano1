@@ -9,8 +9,3 @@
 - 📫 How to reach me: email, twitter, or LinkedIn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once a semi-pro tennis player!
-
-
-[website]: https://fitotoledano.com/
-[twitter]: https://twitter.com/fitotoledano
-[linkedin]: https://www.linkedin.com/in/toledanofito/
