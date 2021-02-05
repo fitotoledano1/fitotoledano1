@@ -6,11 +6,13 @@
 ### Hi there 👋, I'm Fito - nice to meet you!
 
 - 🔭 I’m currently working on Peepteam
-- 🌱 I’m currently learning the Data Structures and Algorithms, to dive deeper into ML/AI
-- 👯 I’m looking to collaborate on projects that help people to learn
-- 🤔 I’m looking for other people who want tot 
-- 💬 Ask me about anything related to tennis
+- 🌱 I’m currently learning the Data Structures and Algorithms, looking to dive deeper into ML/AI
+- 👯 I’m looking to join a company as iOS Developer
 - 📫 How to reach me: email, twitter, or LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I was once a semi-pro tennis player!
 
+
+[website]: https://fitotoledano.com/
+[twitter]: https://twitter.com/fitotoledano
+[linkedin]: https://www.linkedin.com/in/toledanofito/
