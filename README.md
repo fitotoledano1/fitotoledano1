@@ -7,4 +7,4 @@
 - 🌱 Currently learning Data Structures and Algorithms - looking to dive deeper into ML/AI, and the VIPER pattern
 - 📫 How to reach me: email, twitter, or LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once a semi-pro tennis player!
+- ⚡ Fun fact: I once was a semi-pro tennis player
