@@ -5,12 +5,12 @@
 
 ### Hi there 👋, I'm Fito - nice to meet you!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning the VIPER pattern
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: e
+- 🔭 I’m currently working on Peepteam
+- 🌱 I’m currently learning the Data Structures and Algorithms, to dive deeper into ML/AI
+- 👯 I’m looking to collaborate on projects that help people to learn
+- 🤔 I’m looking for other people who want tot 
+- 💬 Ask me about anything related to tennis
+- 📫 How to reach me: email, twitter, or LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
