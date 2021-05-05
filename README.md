@@ -5,6 +5,6 @@
 
 - 💻 Looking at iOS roles for my next career move
 - 🌱 Currently learning Advanced iOS Design Patterns
-- 📫 Reach me via email, twitter, or LinkedIn
+- 📫 Reach out via email, twitter, or LinkedIn
 - 😃 Pronouns: he/him
 - ⚡ Fun fact: I once was a semi-pro tennis player
