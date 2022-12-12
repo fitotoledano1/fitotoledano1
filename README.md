@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/fitotoledano?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjlong5795&screen_name=fitotoledano)
 
 - 💻 Senior iOS Developer at scale-up
-- 🌱 Currently learning Advanced iOS Design Patterns, and reviewing Data Structures and Algorithms
-- 📫 Reach out via email, twitter, or LinkedIn
+- 🌱 Interested in Health Tech + AI
+- 📫 Reach out via twitter @fitotoledano, or LinkedIn
 - 😃 Pronouns: he/him
 - ⚡ Fun fact: I once was a semi-pro tennis player
