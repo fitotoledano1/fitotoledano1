@@ -8,4 +8,4 @@
 - 🌱 Interested in Health tech + AI
 - 📫 Reach out via twitter @fitotoledano, or LinkedIn
 - 😃 Pronouns: he/him
-- ⚡ Fun fact: Competes in tennis
+- 🎾 Competes in tennis
