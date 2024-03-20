@@ -8,4 +8,4 @@
 - 🌱 Interested in Health tech + AI
 - 📫 Reach out via twitter @fitotoledano, or LinkedIn
 - 😃 Pronouns: he/him
-- 🎾 Competes in tennis
+- 🎾 Plays tennis tournaments and is a regsitered player at the KNLTB
