@@ -5,7 +5,7 @@
 
 - 💻 iOS Developer in the Netherlands
 - 👨‍⚕️ Went to medical school
-- 🌱 Interested in Health tech + AI
+- 🌱 Interested in deep technical problems.
 - 📫 Reach out via twitter @fitotoledano, or LinkedIn
 - 😃 Pronouns: he/him
 - 🎾 Is a registered competition tennis player in the KNTLB  (Royal Dutch Tennis Federation)
