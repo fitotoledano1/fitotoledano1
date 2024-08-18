@@ -8,4 +8,4 @@
 - 🌱 Interested in Health tech + AI
 - 📫 Reach out via twitter @fitotoledano, or LinkedIn
 - 😃 Pronouns: he/him
-- 🎾 Is a competition tennis player, registered at the KNTLB (Royal Dutch Tennis Federation)
+- 🎾 Is a registered competition tennis player in the KNTLB  (Royal Dutch Tennis Federation)
