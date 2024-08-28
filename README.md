@@ -4,8 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/fitotoledano?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjlong5795&screen_name=fitotoledano)
 
 - 💻 iOS Developer in the Netherlands
-- 👨‍⚕️ Went to medical school
-- 🌱 Interested in deep technical problems.
+- 👨‍⚕️ went to medical school
+- 🌱 interested in solving the puzzle.
 - 📫 Reach out via twitter @fitotoledano, or LinkedIn
 - 😃 Pronouns: he/him
-- 🎾 Is a registered competition tennis player in the KNTLB  (Royal Dutch Tennis Federation)
+- 🎾 is a registered competition tennis player in the KNTLB  (Royal Dutch Tennis Federation)
