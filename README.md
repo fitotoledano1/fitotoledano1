@@ -6,7 +6,7 @@
 About Fito:
 - 💻 iOS Developer in the Netherlands
 - 👨‍⚕️ Went to medical school
-- 🌱 Interested in solving the puzzle.
+- 🌱 Interested in Concurrency, solving puzzles
 - 🎾 is a registered competition tennis player in the KNTLB (Royal Dutch Tennis Federation)
 
 Contact:
