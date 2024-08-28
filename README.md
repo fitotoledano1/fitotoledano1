@@ -5,9 +5,10 @@
 
 About Fito:
 - 💻 iOS Developer in the Netherlands
-- 👨‍⚕️ went to medical school
-- 🌱 interested in solving the puzzle.
-- 🎾 is a registered competition tennis player in the KNTLB  (Royal Dutch Tennis Federation)
+- 👨‍⚕️ Went to medical school
+- 🌱 Interested in solving the puzzle.
+- 🎾 is a registered competition tennis player in the KNTLB (Royal Dutch Tennis Federation)
 
+Contact:
 - 📫 Reach out via twitter @fitotoledano, or LinkedIn
 - 😃 Pronouns: he/him
