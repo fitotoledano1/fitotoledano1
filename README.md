@@ -5,7 +5,7 @@
 
 - 💻 iOS Developer in the Netherlands
 - 👨‍⚕️ Went to medical school
-- 🌱 Interested in solving puzzles. Lately playing a lot with Concurrency, and want to learn Server-Side Swift.
+- 🌱 Interested in solving puzzles. Lately playing a lot with Concurrency and Server-Side Swift.
 - 🎾 Registered competition tennis player in the KNTLB (Royal Dutch Tennis Federation)
 
 Contact:
