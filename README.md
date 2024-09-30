@@ -6,7 +6,7 @@
 - 💻 iOS Developer in the Netherlands
 - 👨‍⚕️ Went to medical school
 - 🌱 Interested in solving puzzles. Lately playing a lot with Concurrency and Server-Side Swift.
-- 🎾 Registered competition tennis player in the KNTLB (Royal Dutch Tennis Federation)
+- 🎾 Competes regularly in the KNTLB (Royal Dutch Tennis Federation)
 
 Contact:
 - 📫 Reach out via twitter @fitotoledano, or LinkedIn
