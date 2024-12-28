@@ -9,5 +9,5 @@
 - 🎾 Plays competition tennis in teams, singles, and doubles
 
 Contact:
-- 📫 Reach out via twitter @fitotoledano, or LinkedIn
+- 📫 Reach out via LinkedIn, bluesky @fitotoledano.com, or twitter @fitotoledano
 - 😃 Pronouns: he/him
